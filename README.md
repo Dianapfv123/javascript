@@ -1,9 +1,5 @@
 # codigo que señale el caracter que se solicite
-<html>
-<head>
-    <title>Document</title>
-</head>
-<body>
+
     <script>
     var espacios=[];
     var nombre=prompt("Teclee su nombre completo: ");
